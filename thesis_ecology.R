@@ -2,7 +2,7 @@
  library(tidyverse)
 
 # DAATAAAAAAATTTTTTTTTTTTTTTTTAAAAAAAAAAAAAAAAA
-data = read.csv("data_Thesis_I.csv")
+data = read.csv("data_Thesis_I.csv") |> select(-X)
 data |> str()#structure
 data |> skimr::skim()
 data |> dlookr::normality()
@@ -43,7 +43,8 @@ clustering_Ap <- function(data.ab,normalization,dissimilarity,clustering) {
                 shannon_index = shannon_index, 
                 simpson_index = simpson_index, 
                 species_richness = species_richness,
-              pielou_index = pielou_index)
+                pielou_index = pielou_index,
+                max_value_shannon_index = log2(species_richness))
             )
 }
 #Mariarano biodiversity
@@ -66,7 +67,7 @@ clustering_Ap(data.ab = bom.ab,normalization = "hellinger",
 # ou PAS
 # reponse, beaucoup d'essences sont encores des dotylédon?????
 data = data |> filter(dhp>=10) |> mutate(st = (3.14/4)*dhp/100,
-              bv = 0.51 * hfut * st) |> select(-X)
+              bv = 0.51 * hfut * st)
 
 #Bon on atatche notre donne pour l'analyse en global des traitements necessaires
 
@@ -75,6 +76,37 @@ data = data |> filter(dhp>=10) |> mutate(st = (3.14/4)*dhp/100,
 data |> group_by(ap,site,famille) |> 
   summarise(across(.cols=c(st,bv),.fns = list(mean = ~ mean(x = .x,na.rm = TRUE),
                                               sum = ~ sum(x=.x,na.rm=TRUE)) ) )
+
+
+
+##################" Phylogenetic tree"################
+library(ggtree)
+library(ape)
+
+## Asiana fonction apres fa atao exemple fotsn aloha
+res.norm = vegan::decostand(mar.ab,method = "hellinger");
+res.dist = vegan::vegdist(res.norm,method = "horn");
+res.clustering =hclust(res.dist,method = "ward.D2")
+res.phylo = ape::as.phylo(res.clustering)
+
+# Affichage du graphe phylogenetique en utilisant la fonction ggtree
+# et ses différntes fonctions associées
+ggtree::ggtree(res.phylo,layout = "circular",colour="darkgreen",linetype=2)+
+  ggtitle("Hierarchical Clustering using Ward D2")+
+  ggtree::geom_text(aes(label=node),vjust=-0.7)+
+  ggtree::geom_tiplab()+
+  ggtree::geom_nodepoint(aes(aplha=0.6),color="yellow")+
+  ggtree::geom_cladelabel(node=17,label="Alafady type",color ="steelblue",
+                          barsize = 5,align = TRUE,fontsize = 5,
+                         offfset=0.8)+
+  ggtree::geom_highlight(node=c(11,14),fill="red",alpha=0.3) +
+  ggtree::geom_taxalink(taxa1 = "Antanandava",taxa2 = "Beminongo",
+                        colour="gold",linetype=2,
+                      curvaturre=-0.8)
+
+
+
+
 
 
 ################### INDICE DE VALEUR D'IMPORTANCE FAMILLE /GENRE##################
@@ -88,4 +120,4 @@ data |> group_by(ap,site,famille) |>
 
 # IVI=FREQesp+ DENSesp+ DOMesp (bvaleur variaée entre 0-300)
 #frequence relative del'espece(pa)/ densité relative(st)/domiance relative(st)
-data
+# valeur concretement du bois........................???????
