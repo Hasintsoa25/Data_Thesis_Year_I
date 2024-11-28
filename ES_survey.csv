@@ -1,0 +1,352 @@
+AP,Localisation,ID,Genre,Age,Ethnie,Fonction,Nb menage,Formation,Construction,Bois d'energie,Medicinale,Culturelle,Cosmeto,Vannerie,Betail,Fruits de mer,Apiculture,Habitat,Oxygene,Source d'eau,Ombrage,Nourriture,Anti-erosion,Commerce,Tourisme,Agriculture,Detente
+Ankarafantsika,Ambodimanga,Ind_1,Homme,32,Sakalava,,5,Foret,1,0,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Ind_1,Homme,32,Sakalava,,5,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Ind_2,Femme,28,Sakalava,,3,Foret,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Ind_3,Femme,53,Sakalava,,2,Foret,1,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Ind_4,Homme,55,Sakalava,,3,Foret,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Ind_4,Homme,55,Sakalava,,3,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Ind_5,Femme,25,Sakalava,,5,Foret,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Ind_6,Homme,54,Sakalava,,4,Foret,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Ind_7,Femme,57,Sakalava,,4,Foret,0,1,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0,0
+Ankarafantsika,Ampijoroa,Ind_8,Femme,47,Sakalava,,6,Foret,1,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Ind_8,Femme,47,Sakalava,,6,Savane,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Ind_9,Homme,50,Sakalava,,3,Foret,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Ind_10,Homme,60,Sakalava,,2,Foret,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Ind_10,Homme,60,Sakalava,,2,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Ind_10,Homme,60,Sakalava,,2,Raphia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Ind_11,Homme,35,Sakalava,,4,Foret,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Ind_12,Homme,38,Merina,,5,Foret,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Ind_13,Femme,46,Merina,,3,Foret,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Ind_14,Homme,35,Sakalava,,3,Foret,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_15,Homme,28,Sakalava,,5,Foret,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_15,Homme,28,Sakalava,,5,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_15,Homme,28,Sakalava,,5,Raphia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_16,Femme,46,Sakalava,,6,Foret,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_16,Femme,46,Sakalava,,6,Raphia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_17,Femme,57,Sakalava,,7,Foret,1,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_18,Homme,69,Sakalava,,2,Foret,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampombilava,Ind_19,Femme,62,Tsimihety,,4,Foret,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_19,Femme,62,Tsimihety,,4,Raphia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_20,Femme,41,Merina,,3,Foret,1,0,0,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_21,Homme,40,Sakalava,,2,Foret,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Ind_21,Homme,40,Sakalava,,2,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Andranofasika,Ind_22,Homme,56,Tsimihety,,3,Foret,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+Ankarafantsika,Andranofasika,Ind_23,Femme,42,Sakalava,,3,Foret,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Andranofasika,Ind_24,Homme,35,Betsileo,,2,Foret,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Ankarafantsika,Andranofasika,Ind_25,Homme,45,Betsileo,,4,Foret,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+Ankarafantsika,Andranofasika,Ind_25,Homme,45,Betsileo,,4,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Andranofasika,Ind_26,Homme,62,Tandroy,,2,Foret,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Ankarafantsika,Andranofasika,Ind_27,Femme,49,Sakalava,,3,Foret,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+Ankarafantsika,Andranofasika,Ind_28,Homme,65,Tandroy,,5,Foret,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Andranofasika,Ind_29,Femme,50,Betsileo,,4,Foret,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+Ankarafantsika,Andranofasika,Ind_30,Femme,50,Betsileo,,4,Foret,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Ind_31,Femme,52,Sakalava,,3,Foret,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0
+Ankarafantsika,Pont Chauffeur,Ind_32,Femme,23,Merina,,3,Foret,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Pont chauffeur,Ind_33,Femme,24,Sakalava,,4,Foret,1,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Ind_34,Femme,56,Sakalava,,5,Foret,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+Ankarafantsika,Pont Chauffeur,Ind_35,Femme,48,Sakalava,,4,Foret,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+Mariarano,Antafiameva,Ind_1,Femme,30,Sakalava,Vannier,4,Savane,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Mariarano,Antafiameva,Ind_1,Femme,30,Sakalava,Cultivateur,4,Foret,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Antafiameva,Ind_1,Femme,30,Sakalava,Eleveur,4,Foret galerie,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Ind_1,Femme,30,Sakalava,,4,Raphia,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Ind_2,Homme,40,Sakalava,Cultivateur,5,Raphia,1,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0
+Mariarano,Antafiameva,Ind_2,Homme,40,Sakalava,Chef secteur III Antafiameva,5,Foret,1,1,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0
+Mariarano,Antafiameva,Ind_2,Homme,40,Sakalava,Eleveur,5,Savane,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Antafiameva,Ind_2,Homme,40,Sakalava,Pecheur,5,Mangrove,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0
+Mariarano,Antafiameva,Ind_2,Homme,40,Sakalava,Pecheur,5,Foret galerie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Ind_3,Homme,37,Sakalava,Cultivateur,6,Raphia,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+Mariarano,Antafiameva,Ind_3,Homme,37,Sakalava,Eleveur,6,Mangrove,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+Mariarano,Antafiameva,Ind_3,Homme,37,Sakalava,,6,Foret,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_4,Femme,50,Tsimihety,Cultivateur,6,Raphia,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_4,Femme,50,Tsimihety,Eleveur,6,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_4,Femme,50,Tsimihety,Vannier,6,Foret galerie,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_4,Femme,50,Tsimihety,,6,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_4,Femme,50,Tsimihety,,6,Foret,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_5,Homme,55,Tsimihety,Cultivateur,6,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_5,Homme,55,Tsimihety,Eleveur,6,Foret,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mariarano,Mariarano,Ind_5,Homme,55,Tsimihety,Fabricant du sucre malgache,6,Raphia,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_6,Homme,44,Sakalava,Cultivateur,5,Foret,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_6,Homme,44,Sakalava,Eleveur,5,Savane,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Ind_6,Homme,44,Sakalava,,5,Raphia,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Ind_6,Homme,44,Sakalava,,5,Foret galerie,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Ind_7,Homme,32,Sakalava,Chef secteur Antanandava,6,Mangrove,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Ind_7,Homme,32,Sakalava,Cultivateur,6,Savane,1,1,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0
+Mariarano,Antanandava,Ind_7,Homme,32,Sakalava,Pecheur,6,Foret,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Antanandava,Ind_7,Homme,32,Sakalava,Entrepreneur,6,Raphia,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0
+Mariarano,Antanandava,Ind_8,Femme,20,Tsimihety,Cultivateur,5,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mariarano,Antanandava,Ind_8,Femme,20,Tsimihety,Vannier,5,Foret,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Antanandava,Ind_8,Femme,20,Tsimihety,Cultivateur,5,Mangrove,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Ind_8,Femme,20,Tsimihety,,5,Raphia,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,0,0,0
+Mariarano,Antanandava,Ind_9,Homme,57,Tsimihety,Responsable du DINA VOI,4,Foret,1,0,1,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0
+Mariarano,Antanandava,Ind_9,Homme,57,Tsimihety,Cultivateur,4,Savane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Ind_9,Homme,57,Tsimihety,Eleveur,4,Mangrove,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+Mariarano,Antanandava,Ind_9,Homme,57,Tsimihety,Vannier,4,Raphia,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Mariarano,Mariarano,Ind_10,Femme,42,Sakalava,Vendeur,9,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_10,Femme,42,Sakalava,Cultivateur,9,Raphia,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_10,Femme,42,Sakalava,Vannier,9,Foret,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_10,Femme,42,Sakalava,,9,Mangrove,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_11,Homme,31,Sakalava,Ouvrier agricole,6,Foret,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Ind_11,Homme,31,Sakalava,Vendeur,6,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_12,Femme,40,Tsimihety,Cultivateur,4,Savane,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_12,Femme,40,Tsimihety,,4,Foret,1,1,1,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_13,Homme,38,Sakalava,Cultivateur,5,Foret,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_13,Homme,38,Sakalava,Eleveur,5,Raphia,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_13,Homme,38,Sakalava,,5,Mangrove,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_14,Homme,60,Sakalava,Sojabe,5,Mangrove,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_14,Homme,60,Sakalava,Cultivateur,5,Foret,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_15,Femme,37,Sakalava,Cultivateur,4,Foret,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_15,Femme,37,Sakalava,Maçon,4,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_15,Femme,37,Sakalava,,4,Raphia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_16,Homme,58,Betsileo,Cultivateur,6,Mangrove,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Ind_16,Homme,58,Betsileo,,6,Foret,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_16,Homme,58,Betsileo,,6,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_16,Homme,58,Betsileo,,6,Raphia,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_17,Homme,40,Tsimihety,Tale du CEG,5,Foret,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_17,Homme,40,Tsimihety,Cultivateur,5,Mangrove,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_17,Homme,40,Tsimihety,,5,Raphia,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_17,Homme,40,Tsimihety,,5,Savane,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_17,Homme,40,Tsimihety,,5,Foret galerie,1,1,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+Mariarano,Mariarano,Ind_18,Homme,48,Betsileo,Cultivateur,6,Foret,1,0,1,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0
+Mariarano,Mariarano,Ind_18,Homme,48,Betsileo,Eleveur,6,Raphia,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_18,Homme,48,Betsileo,,6,Mangrove,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_18,Homme,48,Betsileo,,6,Foret galerie,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_18,Homme,48,Betsileo,,6,Savane,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_19,Homme,40,Sakalava,Guide,4,Foret,1,1,1,1,1,0,1,0,1,1,1,1,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_19,Homme,40,Sakalava,Cultivateur,4,Savane,1,1,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_19,Homme,40,Sakalava,Police forestiere,4,Mangrove,1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_19,Homme,40,Sakalava,,4,Raphia,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_19,Homme,40,Sakalava,,4,Foret galerie,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_20,Homme,50,Tsimihety,Cultivateur,5,Foret,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_20,Homme,50,Tsimihety,,5,Foret galerie,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_20,Homme,50,Tsimihety,,5,Mangrove,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_20,Homme,50,Tsimihety,,5,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_20,Homme,50,Tsimihety,,5,Raphia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_21,Femme,44,Merina,Cultivateur,4,Foret,0,1,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Mariarano,Mariarano,Ind_21,Femme,44,Merina,Vendeur,4,Foret galerie,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Mariarano,Mariarano,Ind_21,Femme,44,Merina,Membre au niveau de l'association Fambolena,4,Mangrove,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Mariarano,Mariarano,Ind_21,Femme,44,Merina,,4,Savane,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+Mariarano,Mariarano,Ind_21,Femme,44,Merina,,4,Raphia,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_22,Homme,36,Sakalava,Cultivateur,4,Foret,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_22,Homme,36,Sakalava,,4,Foret galerie,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_22,Homme,36,Sakalava,,4,Mangrove,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0
+Mariarano,Mariarano,Ind_22,Homme,36,Sakalava,,4,Savane,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_22,Homme,36,Sakalava,,4,Raphia,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_23,Femme,42,Tsimihety,Vendeur,4,Foret,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_23,Femme,42,Tsimihety,Cultivateur,4,Foret galerie,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_24,Homme,25,Sakalava,Meunier mécanisé,6,Savane,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,1
+Mariarano,Mariarano,Ind_24,Homme,25,Sakalava,Cultivateur,6,Mangrove,1,1,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0,1
+Mariarano,Mariarano,Ind_24,Homme,25,Sakalava,,6,Foret,1,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1
+Mariarano,Mariarano,Ind_24,Homme,25,Sakalava,,6,Foret galerie,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1
+Mariarano,Mariarano,Ind_24,Homme,25,Sakalava,,6,Raphia,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1
+Mariarano,Mariarano,Ind_25,Homme,24,Betsileo,Chauffeur,1,Foret,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Mariarano,Mariarano,Ind_25,Homme,24,Betsileo,,1,Mangrove,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_26,Femme,40,Sakalava,Cultivateur,5,Foret,0,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_26,Femme,40,Sakalava,Vannier,5,Foret galerie,0,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Mariarano,Mariarano,Ind_26,Femme,40,Sakalava,,5,Mangrove,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_26,Femme,40,Sakalava,,5,Savane,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_26,Femme,40,Sakalava,,5,Raphia,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_27,Femme,37,Tsimihety,Vannier,7,Foret,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_27,Femme,37,Tsimihety,Cultivateur,7,Foret galerie,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_27,Femme,37,Tsimihety,,7,Mangrove,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_27,Femme,37,Tsimihety,,7,Savane,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_27,Femme,37,Tsimihety,,7,Raphia,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_28,Homme,70,Sakalava,Cultivateur,6,Foret,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+Mariarano,Mariarano,Ind_28,Homme,70,Sakalava,,6,Foret galerie,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+Mariarano,Mariarano,Ind_28,Homme,70,Sakalava,,6,Mangrove,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+Mariarano,Mariarano,Ind_28,Homme,70,Sakalava,,6,Savane,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+Mariarano,Mariarano,Ind_28,Homme,70,Sakalava,,6,Raphia,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+Mariarano,Mariarano,Ind_29,Femme,35,Sakalava,Vendeur,5,Foret,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_29,Femme,35,Sakalava,Cultivateur,5,Savane,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_29,Femme,35,Sakalava,Eleveur,5,Raphia,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_29,Femme,35,Sakalava,,5,Mangrove,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_29,Femme,35,Sakalava,,5,Foret galerie,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Ind_30,Homme,43,Sakalava,Président du VOI,6,Foret,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1
+Mariarano,Marosakoa,Ind_30,Homme,43,Sakalava,Eleveur,6,Mangrove,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Ind_30,Homme,43,Sakalava,,6,Foret galerie,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Ind_30,Homme,43,Sakalava,,6,Raphia,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Ind_30,Homme,43,Sakalava,,6,Savane,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Ind_31,Homme,48,Sakalava,Pecheur,7,Foret,1,1,1,1,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0
+Mariarano,Marosakoa,Ind_31,Homme,48,Sakalava,Eleveur,7,Mangrove,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Ind_31,Homme,48,Sakalava,Cultivateur,7,Savane,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Ind_31,Homme,48,Sakalava,Chef fokontany Marosakoa,7,Foret galerie,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Ind_31,Homme,48,Sakalava,Eleveur,7,Raphia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Ind_32,Homme,50,Sakalava,Chef Adjoint Maire,4,Foret,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_32,Homme,50,Sakalava,Chef Adjoint Maire,4,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mariarano,Mariarano,Ind_32,Homme,50,Sakalava,Chef Adjoint Maire,4,Mangrove,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Bombetoka,Mataitromby,Ind_1,Homme,40,Sakalava,Agent de terrain,3,Foret,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_1,Homme,40,Sakalava,Agent de terrain,3,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_1,Homme,40,Sakalava,Agent de terrain,3,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_2,Homme,45,Sakalava,Menuisier,3,Foret,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_2,Homme,45,Sakalava,Menuisier,3,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_2,Homme,45,Sakalava,Menuisier,3,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_3,Femme,35,Sakalava,Commercant,3,Foret,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_3,Femme,35,Sakalava,Commercant,3,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_3,Femme,35,Sakalava,Commercant,3,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_4,Femme,36,Sakalava,Commercant,4,Foret,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_4,Femme,36,Sakalava,Commercant,4,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_4,Femme,36,Sakalava,Commercant,4,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_5,Homme,40,Betsileo,Pecheur,5,Foret,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_5,Homme,40,Betsileo,Pecheur,5,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_5,Homme,40,Betsileo,Pecheur,5,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_6,Femme,50,Betsirebaka,Commercant,4,Foret,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_6,Femme,50,Betsirebaka,Commercant,4,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_6,Femme,50,Betsirebaka,Commercant,4,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_7,Femme,62,Sakalava,Commercant,10,Foret,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_7,Femme,62,Sakalava,Commercant,10,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_7,Femme,62,Sakalava,Commercant,10,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_8,Homme,47,Tandroy,Pecheur,4,Foret,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_8,Homme,47,Tandroy,Pecheur,4,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_8,Homme,47,Tandroy,Pecheur,4,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_9,Homme,37,Merina,Boucher,4,Foret,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0
+Bombetoka,Mataitromby,Ind_9,Homme,37,Merina,Boucher,4,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_9,Homme,37,Merina,Boucher,4,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_10,Homme,65,Sakalava,Chef secteur,7,Foret,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_10,Homme,65,Sakalava,Chef secteur,7,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_10,Homme,65,Sakalava,Chef secteur,7,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_11,Femme,34,Betsileo,Peche+commerce,5,Foret,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_11,Femme,34,Betsileo,Peche+commerce,5,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_11,Femme,34,Betsileo,Peche+commerce,5,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_12,Homme,65,Sakalava,Peche+commerce,6,Foret,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_12,Homme,65,Sakalava,Peche+commerce,6,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_12,Homme,65,Sakalava,Peche+commerce,6,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_13,Homme,60,Antaisaka,Conseiller VOI,4,Foret,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_13,Homme,60,Antaisaka,Conseiller VOI,4,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_13,Homme,60,Antaisaka,Conseiller VOI,4,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_14,Homme,35,Sakalava,Peche+commerce,5,Foret,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_14,Homme,35,Sakalava,Peche+commerce,5,Mangrove,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_14,Homme,35,Sakalava,Peche+commerce,5,Savane,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_15,Homme,39,Betsileo,Peche+commerce,4,Foret,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+Bombetoka,Sankoany,Ind_15,Homme,39,Betsileo,Peche+commerce,4,Mangrove,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_15,Homme,39,Betsileo,Peche+commerce,4,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Bombetoka,Sankoany,Ind_16,Femme,45,Tandroy,Commercant,5,Foret,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Bombetoka,Sankoany,Ind_16,Femme,45,Tandroy,Commercant,5,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_16,Femme,45,Tandroy,Commercant,5,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_17,Femme,60,Sakalava,Commercant,6,Foret,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_17,Femme,60,Sakalava,Commercant,6,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_17,Femme,60,Sakalava,Commercant,6,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_18,Homme,50,Antaisaka,Agriculteur,3,Foret,1,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
+Bombetoka,Sankoany,Ind_18,Homme,50,Antaisaka,Agriculteur,3,Mangrove,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_18,Homme,50,Antaisaka,Agriculteur,3,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_19,Homme,45,Bara,Pecheur,5,Foret,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+Bombetoka,Sankoany,Ind_19,Homme,45,Bara,Pecheur,5,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Bombetoka,Sankoany,Ind_19,Homme,45,Bara,Pecheur,5,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_20,Homme,60,Antaisaka,Pecheur,12,Foret,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_20,Homme,60,Antaisaka,Pecheur,12,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_20,Homme,60,Antaisaka,Pecheur,12,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_21,Femme,50,Betsileo,Commercant,5,Foret,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_21,Femme,50,Betsileo,Commercant,5,Mangrove,0,1,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Bombetoka,Mataitromby,Ind_21,Femme,50,Betsileo,Commercant,5,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_22,Homme,34,Antaisaka,Pecheur,4,Foret,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_22,Homme,34,Antaisaka,Pecheur,4,Mangrove,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_22,Homme,34,Antaisaka,Pecheur,4,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_23,Femme,33,Bara,Commercant,4,Foret,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_23,Femme,33,Bara,Commercant,4,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_23,Femme,33,Bara,Commercant,4,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_24,Homme,37,Antsoany,Agent de terrain,5,Foret,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_24,Homme,37,Antsoany,Agent de terrain,5,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_24,Homme,37,Antsoany,Agent de terrain,5,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_25,Femme,62,Betsirebaka,Commercant,4,Foret,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_25,Femme,62,Betsirebaka,Commercant,4,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_25,Femme,62,Betsirebaka,Commercant,4,Savane,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_26,Homme,56,Tsimihety,Pecheur,2,Foret,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_26,Homme,56,Tsimihety,Pecheur,2,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_26,Homme,56,Tsimihety,Pecheur,2,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_27,Homme,32,Betsileo,Pecheur,4,Foret,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_27,Homme,32,Betsileo,Pecheur,4,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_27,Homme,32,Betsileo,Pecheur,4,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_28,Femme,37,Sakalava,Peche+commerce,5,Foret,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_28,Femme,37,Sakalava,Peche+commerce,5,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_28,Femme,37,Sakalava,Peche+commerce,5,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_29,Femme,36,Tsimihety,Commercant,6,Foret,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_29,Femme,36,Tsimihety,Commercant,6,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_29,Femme,36,Tsimihety,Commercant,6,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_30,Homme,40,Tandroy,Pecheur,4,Foret,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_30,Homme,40,Tandroy,Pecheur,4,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Ind_30,Homme,40,Tandroy,Pecheur,4,Savane,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_31,Femme,36,Bara,Carrière,2,Foret,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_31,Femme,36,Bara,Carrière,2,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Bombetoka,Sankoany,Ind_31,Femme,36,Bara,Carrière,2,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_32,Homme,45,Bara,Carrière,4,Foret,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+Bombetoka,Sankoany,Ind_32,Homme,45,Bara,Carrière,4,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_32,Homme,45,Bara,Carrière,4,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_33,Homme,60,Betsileo,Peche+commerce,7,Foret,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_33,Homme,60,Betsileo,Peche+commerce,7,Mangrove,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_33,Homme,60,Betsileo,Peche+commerce,7,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_34,Homme,35,Tsimihety,Carrière,7,Foret,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_34,Homme,35,Tsimihety,Carrière,7,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Bombetoka,Sankoany,Ind_34,Homme,35,Tsimihety,Carrière,7,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_35,Homme,37,Antaisaka,Carrière,7,Foret,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_35,Homme,37,Antaisaka,Carrière,7,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Bombetoka,Sankoany,Ind_35,Homme,37,Antaisaka,Carrière,7,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_36,Homme,44,Betsileo,Agriculteur,3,Foret,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Ind_36,Homme,44,Betsileo,Agriculteur,3,Mangrove,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Bombetoka,Sankoany,Ind_36,Homme,44,Betsileo,Agriculteur,3,Savane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,

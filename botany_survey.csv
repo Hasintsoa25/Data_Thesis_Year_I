@@ -1,0 +1,732 @@
+AP,Localisation,ID,Genre,Nom vernaculaire,Famille,Species,Construction,Bois de chauffe,Pharmaceutique,Valeur culturelle,Cosmetique,Vannerie,Nourriture,Betail,Outils diverses,Commerce
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,1,1,1,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Adabo,MORACEAE,Ficus cocculifolia,0,0,1,0,1,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Madiro,FABACEAE,Tamarindus indica,1,0,1,1,1,0,1,0,1,0
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Manary,FABACEAE,Dalbergia sp,1,0,1,1,0,0,0,0,1,0
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Katrafay,RUTACEAE,Thilachium angustifolium,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,1
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Andriambavifohy,APOCYNACEAE,Petchia erythrocarpa,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Lamboenjana,LYTHRACEAE,Woodfordia fruticosa,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Tapiaka,MALPIGHIACEAE,Acridocarpus excelsus,1,0,1,0,0,0,0,1,0,0
+Ankarafantsika,Ambodimanga,Inf_1,Homme,Koropoka,PHYLLANTACEAE,Margaritaria rhomboidalis,1,0,0,0,0,0,1,0,1,0
+Ankarafantsika,Ambodimanga,Inf_2,Femme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,1,1,1,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_2,Femme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ambodimanga,Inf_2,Femme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_3,Femme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,1,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_3,Femme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_3,Femme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ambodimanga,Inf_3,Femme,Ramy,BURSERACEAE,Canarium madagascariense,0,0,0,1,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_3,Femme,Kabija,RHAMNACEAE,Bathiorhamnus reticulatus,0,1,0,0,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_3,Femme,Tsiresitosika,,sp 26,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_3,Femme,Mandresy,MORACEAE,Ficus reflexa,0,0,1,1,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_3,Femme,Tsilaitra,OLEACEAE,Noronhia boinensis ,0,0,1,0,1,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_3,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,1,1,1,0,0,0,0,1,0
+Ankarafantsika,Ambodimanga,Inf_4,Homme,Bozaka,POACEAE,Aristida rufescens,1,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Ambodimanga,Inf_4,Homme,Masonjoany,ASTERACEA,Brachylaena merana,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_4,Homme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,1
+Ankarafantsika,Ambodimanga,Inf_4,Homme,Mokotra,LOGANIACEAE,Strychnos spinosa,0,0,1,0,0,0,1,0,0,1
+Ankarafantsika,Ambodimanga,Inf_4,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,1,1,1,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_5,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_5,Femme,Madiro,FABACEAE,Tamarindus indica,1,0,1,0,1,0,1,0,1,0
+Ankarafantsika,Ambodimanga,Inf_5,Femme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ambodimanga,Inf_5,Femme,Masonjoany,ASTERACEA,Brachylaena merana,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_5,Femme,Tamotamohazo,OROBANCHACEAE,Radamaea montana,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,1,0,0,0,0,0,1,0
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Kabija,RHAMNACEAE,Bathiorhamnus reticulatus,0,1,0,0,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Antaly,DIOSCOREACEAE,Dioscorea antaly,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Manjakabentany,FABACEAE,Baudouinia fluggeiformis,1,0,1,1,0,0,0,0,1,0
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,0,1,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Manga,ANACARDIACEAE,Mangifera indica,0,1,0,0,0,0,0,0,0,1
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Andriambavifohy,APOCYNACEAE,Petchia erythrocarpa,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Votamenaka,COMBRETACEAE,Combretum coccineum,0,0,1,0,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_6,Homme,Hazoambo,SALICACEAE,Homalium nudiflorum,1,0,1,0,0,0,0,0,1,0
+Ankarafantsika,Ambodimanga,Inf_7,Femme,Hazoambo,SALICACEAE,Homalium nudiflorum,1,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_7,Femme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,1,1,1,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_7,Femme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ambodimanga,Inf_7,Femme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ambodimanga,Inf_7,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,1,1,0,0,0,0,1,0
+Ankarafantsika,Ambodimanga,Inf_7,Femme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_7,Femme,Andriambavifohy,APOCYNACEAE,Petchia erythrocarpa,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_7,Femme,Ratendrika,LOGANIACEAE,Strychnos myrtoides,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ambodimanga,Inf_7,Femme,Hazomby,LOGANIACEAE,Strychnos decussata,1,1,0,0,0,0,0,0,1,0
+Ankarafantsika,Ambodimanga,Inf_7,Femme,Tsimatimanota,CALOPHYLLACEAE,Mammea punctata,1,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Maevalafika,CHRYSOBALANACEAE,Grangeria porosa,1,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,1,1,0,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Tamotamohazo,OROBANCHACEAE,Radamaea montana,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Adabo,MORACEAE,Ficus cocculifolia,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Manjakabentany,FABACEAE,Baudouinia fluggeiformis,0,0,0,1,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Masonjoany,ASTERACEA,Brachylaena merana,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Godroa,APOCYNACEAE,Mascarenhasia lisianthiflora,0,1,1,0,1,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,0,0,1,0,1,0,1,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Mokonazo,RHAMNACEAE,Zizyphus mauritiana,1,1,1,0,0,0,1,0,1,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Andriambavifohy,APOCYNACEAE,Petchia erythrocarpa,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Tsilaitra,OLEACEAE,Noronhia boinensis ,0,0,1,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_8,Femme,Sarigavo,EUPHORBIACEAE,Alchornea alnifolia,1,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_9,Homme,Hazoambo,SALICACEAE,Homalium nudiflorum,1,0,1,0,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf_9,Homme,Nala,,sp 27,0,0,0,1,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_9,Homme,Elapapango,,sp 24,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_9,Homme,Elampanihy,,sp 25,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_9,Homme,Harovy,,sp 28,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_9,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,1,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_9,Homme,Manga,ANACARDIACEAE,Mangifera indica,0,0,0,0,0,0,1,0,0,1
+Ankarafantsika,Ampijoroa,Inf_9,Homme,Nanto,SAPOTACEAE,Capurodendron rubrocostatum,1,1,0,0,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf_9,Homme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,1,0,1,0,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Inf_10,Homme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,0,1,1,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_10,Homme,Manga,ANACARDIACEAE,Mangifera indica,0,1,0,0,0,0,1,0,0,1
+Ankarafantsika,Ampijoroa,Inf_10,Homme,Voasary,RUTACEAE,Citrus limonium,0,1,1,0,0,0,1,0,0,1
+Ankarafantsika,Ampijoroa,Inf_10,Homme,Matambelona,BURSERACEAE,Commiphora sp,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_10,Homme,Hazondringitra,PHYSENACEA,Physena sessiliflora,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_10,Homme,Hazomafana,EBENACEAE,Diospyros sp,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_10,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_10,Homme,Bozaka,POACEAE,Aristida rufescens,1,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf_10,Homme,Rofia,ARECACEAE,Raphia farinifera,1,0,0,1,0,0,1,0,1,1
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,1,1,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Vahimarirana,FABACEAE,Dalbergia bracteolata,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Manjakabentany,FABACEAE,Baudouinia fluggeiformis,1,0,1,1,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Matambelona,BURSERACEAE,Commiphora sp,0,0,0,1,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Harongana,CLUSIACEAE,Harongana madagascariensis,0,0,1,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Adabo,MORACEAE,Ficus cocculifolia,0,0,1,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Hazomboay,EUPHORBIACEAE,Hura crepitans,0,1,0,1,0,0,0,0,1,1
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Madiro,FABACEAE,Tamarindus indica,0,0,1,0,1,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Oviala,DIOSCOREACEAE,Dioscorea ovinala,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Antaly,DIOSCOREACEAE,Dioscorea antaly,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Aviavy,MORACEAE,Ficus megapoda,0,0,1,0,0,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Nanto,SAPOTACEAE,Capurodendron rubrocostatum,1,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Maevalafika,CHRYSOBALANACEAE,Grangeria porosa,1,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf-11,Homme,Hazontsifaka,PUTRANJIVACEAE,Drypetes thouarsii,1,1,0,0,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf-12,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,1,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf-12,Homme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampijoroa,Inf-12,Homme,Manary,FABACEAE,Dalbergia sp,0,1,0,1,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf-12,Homme,Oviala,DIOSCOREACEAE,Dioscorea ovinala,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Inf-12,Homme,Antaly,DIOSCOREACEAE,Dioscorea antaly,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Inf_13,Femme,Hazonjia,EUPHORBIACEAE,Securinega seyrigii,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_13,Femme,Ahidrano,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampijoroa,Inf_13,Femme,Lelanomby,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampijoroa,Inf_13,Femme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampijoroa,Inf_13,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_13,Femme,Manga,ANACARDIACEAE,Mangifera indica,0,1,0,0,0,0,1,0,0,1
+Ankarafantsika,Ampijoroa,Inf_13,Femme,Oviala,DIOSCOREACEAE,Dioscorea ovinala,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Inf_13,Femme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampijoroa,Inf_13,Femme,Ratendrika,LOGANIACEAE,Strychnos myrtoides,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_13,Femme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,1,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampijoroa,Inf_14,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,1,0,0,0,0,0,0,1,0
+Ankarafantsika,Ampijoroa,Inf_14,Homme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,1,1,0,0,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Sarigavo,EUPHORBIACEAE,Alchornea alnifolia,1,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Nala,,sp 29,0,0,0,1,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Madiro,FABACEAE,Tamarindus indica,0,0,1,1,1,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Adabo,MORACEAE,Ficus cocculifolia,0,0,1,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Tamotamohazo,OROBANCHACEAE,Radamaea montana,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Vahilava,MENISPERMACEAE,Raptonema sp,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Manary,FABACEAE,Dalbergia sp,1,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Maevalafika,CHRYSOBALANACEAE,Grangeria porosa,1,0,1,0,0,0,0,0,1,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Bozaka,POACEAE,Aristida rufescens,1,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Ampombilava,Inf_15,Homme,Rofia,ARECACEAE,Raphia farinifera,1,0,0,1,0,0,0,0,1,1
+Ankarafantsika,Ampombilava,Inf_16,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_16,Femme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,1,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_16,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,1,1,1,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_16,Femme,Vakakoa,LOGANIACEAE,Strychnos madagascariensis,1,1,1,0,0,0,1,0,1,0
+Ankarafantsika,Ampombilava,Inf_16,Femme,Voatsakalava,BIGNONIACEAE,Phyllocternium bernieri,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_16,Femme,Tsimatimanota,CALOPHYLLACEAE,Mammea punctata,1,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Ampombilava,Inf_16,Femme,Rofia,ARECACEAE,Raphia farinifera,1,0,0,0,0,0,1,0,1,0
+Ankarafantsika,Ampombilava,Inf_17,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,1,0,1,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_17,Femme,Ambilazo,FABACEAE,Bussea perrieri,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_17,Femme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampombilava,Inf_17,Femme,Madiro,FABACEAE,Tamarindus indica,1,0,0,0,1,0,0,0,1,0
+Ankarafantsika,Ampombilava,Inf_17,Femme,Adabo,MORACEAE,Ficus cocculifolia,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_17,Femme,Tamotamohazo,OROBANCHACEAE,Radamaea montana,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_17,Femme,Manga,ANACARDIACEAE,Mangifera indica,0,1,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_17,Femme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,1
+Ankarafantsika,Ampombilava,Inf_17,Femme,Antaly,DIOSCOREACEAE,Dioscorea antaly,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_17,Femme,Bemandry,DIOSCOREACEAE,Dioscorea bemandry,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_17,Femme,Tsimatimanota,CALOPHYLLACEAE,Mammea punctata,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_18,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,1,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_18,Homme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampombilava,Inf_18,Homme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampombilava,Inf_18,Homme,Amaninomby,ANNONACEAE,Isolona madagascariensis,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_18,Homme,Tamotamohazo,OROBANCHACEAE,Radamaea montana,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_18,Homme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,0,0,1,0,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_19,Femme,Rofia,ARECACEAE,Raphia farinifera,1,0,0,1,0,0,1,0,1,0
+Ankarafantsika,Ampombilava,Inf_19,Femme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampombilava,Inf_19,Femme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampombilava,Inf_19,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,0,1,1,0,1,0,1,0
+Ankarafantsika,Ampombilava,Inf_19,Femme,Manjakabentany,FABACEAE,Baudouinia fluggeiformis,0,0,1,1,0,0,0,0,1,0
+Ankarafantsika,Ampombilava,Inf_19,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_19,Femme,Vahimainty,MENISPERMACEAE,Anisocycla grandidieri,0,0,1,1,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_20,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,1,1,0,0,0,0,1,0
+Ankarafantsika,Ampombilava,Inf_20,Femme,Sely,MALVACEAE,Grewia sp,0,0,0,0,0,0,0,1,1,0
+Ankarafantsika,Ampombilava,Inf_20,Femme,Tsiandalana,FABACEAE,Dalbergia tsiandalana,1,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_20,Femme,Madiro,FABACEAE,Tamarindus indica,1,0,0,1,1,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_20,Femme,Nala,,sp 29,0,0,0,1,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_20,Femme,Manavodrevo,ANACARDIACEAE,Prothorus grandidieri,0,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_20,Femme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,1,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_20,Femme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,1,1,1,0,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_20,Femme,Malazovoavy,LAMIACEAE,Karomia macrocalyx,1,1,0,0,1,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_20,Femme,Bombay,,sp 30,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_21,Homme,Lopingo,EBENACEAE,Diospyros perrieri,1,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_21,Homme,Hazofotsy,,Hazofotsy,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_21,Homme,Manga,ANACARDIACEAE,Mangifera indica,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_21,Homme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampombilava,Inf_21,Homme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Ampombilava,Inf_21,Homme,Manary,FABACEAE,Dalbergia sp,1,0,1,1,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_21,Homme,Voasary,RUTACEAE,Citrus limonium,0,0,1,0,0,0,1,0,0,0
+Ankarafantsika,Ampombilava,Inf_21,Homme,Matambelona,BURSERACEAE,Commiphora sp,1,0,0,1,0,0,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_21,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Ankarafantsika,Ampombilava,Inf_21,Homme,Bozaka,POACEAE,Aristida rufescens,1,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Andranofasika,Inf_22,Homme,Madiro,FABACEAE,Tamarindus indica,1,0,0,0,1,0,1,0,0,0
+Ankarafantsika,Andranofasika,Inf_22,Homme,Mandresy,MORACEAE,Ficus reflexa,0,0,0,1,1,0,1,0,0,0
+Ankarafantsika,Andranofasika,Inf_22,Homme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Andranofasika,Inf_22,Homme,Voasary,RUTACEAE,Citrus limonium,0,1,0,0,0,0,1,0,0,1
+Ankarafantsika,Andranofasika,Inf_22,Homme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Andranofasika,Inf_23,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,1,0,0,0,0,0,0,1,0
+Ankarafantsika,Andranofasika,Inf_24,Homme,Kininina,MYRTACEAE,Eucalyptus sp,1,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Andranofasika,Inf_24,Homme,Matsiko,RUTACEAE,Citrus limonium,0,1,1,0,0,0,0,0,0,1
+Ankarafantsika,Andranofasika,Inf_25,Homme,Maevalafika,CHRYSOBALANACEAE,Grangeria porosa,1,0,1,0,0,0,0,0,1,0
+Ankarafantsika,Andranofasika,Inf_25,Homme,Bozaka,POACEAE,Aristida rufescens,1,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Andranofasika,Inf_26,Homme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Andranofasika,Inf_27,Femme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Andranofasika,Inf_28,Homme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Andranofasika,Inf_29,Femme,Kininina,MYRTACEAE,Eucalyptus sp,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Andranofasika,Inf_29,Femme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Andranofasika,Inf_29,Femme,Lojy,FABACEAE,Arachis hypogeae,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Andranofasika,Inf_29,Femme,Katsaka,POACEAE,Zea mays,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Andranofasika,Inf_30,Femme,Kininina,MYRTACEAE,Eucalyptus sp,0,1,1,0,0,0,0,0,0,0
+Ankarafantsika,Andranofasika,Inf_30,Femme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Andranofasika,Inf_30,Femme,Manga,ANACARDIACEAE,Mangifera indica,0,1,0,0,0,0,0,0,0,1
+Ankarafantsika,Pont Chauffeur,Inf_31,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,1,1,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_31,Femme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,1
+Ankarafantsika,Pont Chauffeur,Inf_31,Femme,Manga,ANACARDIACEAE,Mangifera indica,0,0,0,0,0,0,1,0,0,1
+Ankarafantsika,Pont Chauffeur,Inf_31,Femme,Hazompika,RUBIACEAE,Schizoenterospermum rotundiflorum,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_31,Femme,Fandrana,PANDANACEAE,Pandanus sp,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_31,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,1,0,1,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_31,Femme,Tsiandalana,FABACEAE,Dalbergia tsiandalana,0,0,0,0,1,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_31,Femme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,1,1,0,0,0,1,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_31,Femme,Hazondringitra,PHYSENACEA,Physena sessiliflora,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_32,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,0,1,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_32,Femme,Amaninomby,ANNONACEAE,Isolona madagascariensis,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_33,Femme,Akata,POACEAE,Herbes,0,0,0,0,0,0,0,1,0,0
+Ankarafantsika,Pont Chauffeur,Inf_34,Femme,Amaninomby,ANNONACEAE,Isolona madagascariensis,1,0,0,0,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_34,Femme,Ratendrika,LOGANIACEAE,Strychnos myrtoides,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_34,Femme,Andriambavifohy,APOCYNACEAE,Petchia erythrocarpa,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_34,Femme,Kijejalahy,CAPPARACEAE,Thilachium angustifolium,0,0,1,0,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_34,Femme,Kitata,PHYLLANTACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_34,Femme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_34,Femme,Tsimatimanota,CALOPHYLLACEAE,Mammea punctata,1,0,0,0,0,0,0,0,1,0
+Ankarafantsika,Pont Chauffeur,Inf_35,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,1,0,0,0,0,0,0,1,0
+Ankarafantsika,Pont Chauffeur,Inf_35,Femme,Masiba,DIOSCOREACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,0
+Ankarafantsika,Pont Chauffeur,Inf_35,Femme,Mololo,POACEAE,Foins,0,0,0,0,0,0,0,1,0,0
+Bombetoka,Mataitromby,Inf_1,Homme,Mandoko,FABACEAE,Dalbergia sp.,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_1,Homme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_1,Homme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_1,Homme,Kabokala,APOCYNACEAE,Carissa spinarum,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_1,Homme,Dilombetsirebaka, ,sp 1,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_1,Homme,Tavela,MELIACEAE,Xylocarpus granatum ,1,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Angona,DIOSCOREACEAE,Dioscorea sp. ,1,0,1,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Manavidrevo,ANACARDIACAE,Protorhus grandidieri,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Nanto,SAPOTACEAE,Capurodendron rubrocostatum,1,1,0,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_2,Homme,Mangarahara,BOGNONIACEAE,Stereospermum euphoroides,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,1,0,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Kifaitry,,sp 2,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,1,1,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_2,Homme,vahona,ASPHODELACEAE,Aloe vera,0,0,1,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Raisaonjo,PHYSENACEAE,Physena sessiliflora,1,0,1,0,0,0,0,1,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Vakakoa,LOGANIACEAE,Strychnos madagascariensis,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Satrana,ARECACEAE,Bismarckia nobilis,0,0,1,0,0,1,0,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Oditrandy,,sp 3,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Godroa,APOCYNACEAE,Mascarenasia arborescens,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_2,Homme,Afiafy,AVICENNIACEAE,Avicennia marina,1,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_3,Femme,Vakakoa,LOGANIACEAE,Strychnos madagascariensis,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_3,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,1,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_3,Femme,Tsimatimanota,BIGNONIACEAE,Mammea paunctata,1,0,0,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_3,Femme,Voavongo,EBENACEAE,Diospyros pervillei,1,0,0,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_3,Femme,Vahona,ASPHODELACEAE,Aloe vera,0,0,1,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_3,Femme,Masonjoany,MELIACEAE,Enterospermum madagascariensis,1,0,0,0,1,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_4,Femme,Laingomaimbo,RUBIACEAE,Paederia bojeriana,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_4,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_4,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,0,0,1,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_5,Homme,Taindalitra,PHYLLANTACEAE,Antidesma madagascariense,0,1,1,0,0,0,1,0,1,0
+Bombetoka,Mataitromby,Inf_5,Homme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_5,Homme,Fotsiavadika,EUPHORBIACEAE,Croton sp.,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_5,Homme,Matambelo,BURSERACEAE,Commiphora sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_5,Homme,Atokonjo,BURSERACEAE,Operculicarya gummifera,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_5,Homme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_5,Homme,Mandoko,FABACEAE,Dalbergia sp.,1,1,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_5,Homme,Fafana,,sp 4,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_5,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Bombetoka,Mataitromby,Inf_6,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_6,Femme,Afiafy,AVICENNIACEAE,Avicennia marina,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_6,Femme,Farafaka,PHYLLANTACEAE,Securinega seyrigii,1,1,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_6,Femme,Famoalambo,FABACEAE,Dichrostachys sp.,1,0,0,0,0,0,0,1,0,0
+Bombetoka,Mataitromby,Inf_6,Femme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,1,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_6,Femme,Atokonjo,BURSERACEAE,Operculicarya gummifera,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_6,Femme,Vahy mirazo,MALVACEAE,Byttneria voulily,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_6,Femme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Vaomiraha,,sp 5,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Kabokala,APOCYNACEAE,Carissa spinarum,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Tsiavalika,ANNONACEAE,Monanthotaxis boivinii,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Ambiaty,ASTERACEAE,Vernonia Appendiculata,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Mokonazy,RHAMNACEAE,Ziziphus mauritiana,1,1,1,0,0,0,1,1,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Goavy,MYRTACEAE,Psidium guajava,1,0,1,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Voamaintilany,FABACEAE,Abrus precatorius,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Satramira,ARECACEAE,Hyphaene shatan,0,0,1,0,0,1,0,1,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Famoalambo,FABACEAE,Dichrostachys sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Mamoloana,,sp 6,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_7,Femme,Mandoko,FABACEAE,Dalbergia sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Sely,MALVACEAE,Grewia sp.,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,0,1,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Mandoko,FABACEAE,Dalbergia sp.,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Famoalambo,FABACEAE,Dichrostachys sp.,1,0,0,0,0,0,0,1,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Taindelokarana,BORAGINACEAE,Cordia myxa,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Ar?y ,BURSERACEAE,Commiphora sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Andriamanamora,MELIACEAE,Malleastrum gracile,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_8,Homme,Famonty,ASTERACEAE,Pluchea grevei,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Raisaonjo,PHYSENACEAE,Physena sessiliflora,0,0,1,0,0,0,0,1,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Andriamanamora,MELIACEAE,Malleastrum gracile,0,0,1,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_9,Homme,Modiventiniala,,sp 7,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Lazalaza,EUPHORBIACEAE,Croton boinensis,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Fotsiavadika,EUPHORBIACEAE,Croton sp.,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Mokonazy,RHAMNACEAE,Ziziphus mauritiana,1,0,0,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Sohihy,ANACARDIACAE,Adina microcephala,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Mangarahara,BOGNONIACEAE,Stereospermum euphoroides,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Lohavato,RUBIACEAE,Hymenodictyon louhavato,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_9,Homme,Ar?y ,BURSERACEAE,Commiphora sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_10,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_10,Homme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_10,Homme,Dilombetsirebaka,,sp 1,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_11,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_11,Femme,Kininina,MYRTACEAE,Eucalyptus sp.,1,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_12,Homme,Satrana,ARECACEAE,Bismarckia nobilis,0,0,0,0,0,1,0,0,0,0
+Bombetoka,Mataitromby,Inf_12,Homme,Andriamanamora,MELIACEAE,Malleastrum gracile,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_12,Homme,Lambohenjana,LYTHRACEAE,Woodfordia fruticosa,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_12,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_12,Homme,Tsivakimbaratra,ULMACEAE,Trema orientalis var. occidentalis,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_13,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_13,Homme,Famoalambo,FABACEAE,Dichrostachys sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_13,Homme,Mandoko,FABACEAE,Dalbergia sp.,1,1,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_13,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,1,1,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_13,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_13,Homme,kabokala,APOCYNACEAE,Carissa spinarum,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_13,Homme,Vahy mirazo,MALVACEAE,Byttneria voulily,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Satramira,ARECACEAE,Hyphaene shatan,0,0,1,0,0,0,0,1,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Kirajy,MALPHIGIACEAE,Acridocarpus excelsus,1,0,1,0,0,0,0,1,1,0
+Bombetoka,Sankoany,Inf_14,Homme,Angona,DIOSCOREACEAE,Dioscorea sp. ,1,0,1,0,0,0,1,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Babonga,COMBRETACEAE,Combretum coccineum,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Afiafy,AVICENNIACEAE,Avicennia marina,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Sarigavo,EUPHORBIACEAE,Alchornea alnifolia,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Mangoro,,sp 8,1,0,0,0,0,0,1,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Vory,MORACEAE,Allaeanthus greveanus,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Atokonjo,BURSERACEAE,Operculicarya gummifera,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,1,0,0,0,0,1,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Sohihy,ANACARDIACAE,Adina microcephala,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Malazovoavy,LAMIACEAE,Karomia macrolyx,1,1,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_14,Homme,Kifaitry,,sp 2,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_15,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_15,Homme,Tsilanimboana,LOGANIACEAE,Strychnos henningsii,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_15,Homme,Madiro,FABACEAE,Tamarindus indica,1,0,1,0,0,0,1,0,0,0
+Bombetoka,Sankoany,Inf_15,Homme,Kirapy,,,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_15,Homme,Lambohenjana,LYTHRACEAE,Woodfordia fruticosa,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_15,Homme,Manary,FABACEAE,Dalbergia trichocarpa,1,0,0,0,0,0,0,0,1,0
+Bombetoka,Sankoany,Inf_15,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_15,Homme,Nanto,SAPOTACEAE,Capurodendron rubrocostatum,1,1,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_15,Homme,Kifaitry,,sp 2,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_15,Homme,Mangarahara,BOGNONIACEAE,Stereospermum euphoroides,1,0,0,0,0,0,0,0,1,0
+Bombetoka,Sankoany,Inf_16,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Bombetoka,Sankoany,Inf_16,Femme,Tsihitafototra,LAURACEAE,Cassytha filiformis,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_16,Femme,Kirajy,MALPHIGIACEAE,Acridocarpus excelsus,1,0,1,0,0,0,0,1,1,0
+Bombetoka,Sankoany,Inf_16,Femme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_16,Femme,Ferinalika,,,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_17,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Bombetoka,Sankoany,Inf_17,Femme,Katra,FABACEAE,Caesalpinia bonduc,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_17,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Sely,MALVACEAE,Grewia sp.,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Madiro,FABACEAE,Tamarindus indica,1,0,1,0,0,0,0,1,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Goavy,MYRTACEAE,Psidium guajava,1,0,1,0,0,0,1,1,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,1,1,0,0,0,0,0,1,0
+Bombetoka,Sankoany,Inf_18,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Sakoa gasy,ANACARDIACAE,Sclerocarya birrea,0,0,1,0,0,0,1,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Laingomaimbo,RUBIACEAE,Paederia bojeriana,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Godroa,APOCYNACEAE,Mascarenasia arborescens,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Mangarahara,BOGNONIACEAE,Stereospermum euphoroides,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Nanto,SAPOTACEAE,Capurodendron rubrocostatum,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Mojiro,LAMIACEAE,Vitex leandrii,1,0,0,0,0,0,0,0,1,0
+Bombetoka,Sankoany,Inf_18,Homme,Ar?y ,BURSERACEAE,Commiphora sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Kifaitry,,sp 2,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Molompangady,RUBIACEAE,Neonauclea macrostipula,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Hazoambo,ANNONACEAE,Homalium nudiflorum,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Manary,FABACEAE,Dalbergia trichocarpa,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_18,Homme,Satramira,ARECACEAE,Hyphaene shatan,0,0,1,0,0,0,0,1,0,0
+Bombetoka,Sankoany,Inf_19,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Bombetoka,Sankoany,Inf_19,Homme,Mokonazy,RHAMNACEAE,Ziziphus mauritiana,1,1,1,0,0,0,1,1,0,0
+Bombetoka,Sankoany,Inf_19,Homme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,1,0,0,0
+Bombetoka,Sankoany,Inf_19,Homme,kabokala,APOCYNACEAE,Carissa spinarum,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_19,Homme,Tsilaitra,OLACACEAE,Noronhia boinensis,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_19,Homme,Mangarahara,BOGNONIACEAE,Stereospermum euphoroides,1,0,0,0,0,0,0,0,1,0
+Bombetoka,Sankoany,Inf_19,Homme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,0,1,0,0,0,1,0,0,0
+Bombetoka,Sankoany,Inf_19,Homme,Sakoana,ANACARDIACAE,Poupartia caffra,1,0,1,0,0,0,1,0,0,0
+Bombetoka,Sankoany,Inf_19,Homme,Ar?y ,BURSERACEAE,Commiphora sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_19,Homme,Atokonjo,BURSERACEAE,Operculicarya gummifera,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_19,Homme,Dilombetsirebaka,,sp 1,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_19,Homme,Taikindambo,FABACEAE,Millettia aurea,1,0,0,0,0,0,0,0,1,0
+Bombetoka,Sankoany,Inf_20,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Bombetoka,Sankoany,Inf_20,Homme,Famoalambo,FABACEAE,Dichrostachys sp.,1,0,0,0,0,0,0,1,0,0
+Bombetoka,Sankoany,Inf_20,Homme,Mandoko,FABACEAE,Dalbergia sp.,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_20,Homme,Fanariandia,,,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_20,Homme,kabokala,APOCYNACEAE,Carissa spinarum,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_20,Homme,Vahy mirazo,MALVACEAE,Byttneria voulily,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_21,Femme,Satrana,ARECACEAE,Bismarckia nobilis,0,0,0,0,0,1,0,0,0,0
+Bombetoka,Mataitromby,Inf_21,Femme,Godroa,APOCYNACEAE,Mascarenasia arborescens,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_21,Femme,Kirajy,MALPHIGIACEAE,Acridocarpus excelsus,1,0,1,0,0,0,0,1,1,0
+Bombetoka,Mataitromby,Inf_21,Femme,Vakakoa,LOGANIACEAE,Strychnos madagascariensis,1,1,1,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_21,Femme,Manevoka,POACEAE,Imperata cylindrica,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_21,Femme,Nanto,SAPOTACEAE,Capurodendron rubrocostatum,1,1,0,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_21,Femme,Mangarahara,BOGNONIACEAE,Stereospermum euphoroides,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_21,Femme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_21,Femme,Pamba,MALVACEAE,Ceiba pentandra,1,0,0,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_22,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Bombetoka,Mataitromby,Inf_22,Homme,Lambohenjana,LYTHRACEAE,Woodfordia fruticosa,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_22,Homme,Madiro,FABACEAE,Tamarindus indica,1,0,1,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_22,Homme,Kininina,MYRTACEAE,Eucalyptus sp.,1,1,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_22,Homme,Mangarahara,BOGNONIACEAE,Stereospermum euphoroides,1,0,1,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_22,Homme,Famoalambo,FABACEAE,Dichrostachys sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_22,Homme,Sely,MALVACEAE,Grewia sp.,1,1,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_22,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_22,Homme,Farafaka,PHYLLANTACEAE,Securinega seyrigii,1,1,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_22,Homme,Fahavalonkazo,RUTACEAE,Zanthoxylum tsihanimposa,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_23,Femme,Mokonazy,RHAMNACEAE,Ziziphus mauritiana,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_24,Homme,kabokala,APOCYNACEAE,Carissa spinarum,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_24,Homme,Vahy mirazo,MALVACEAE,Byttneria voulily,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_24,Homme,Godroa,APOCYNACEAE,Mascarenasia arborescens,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_24,Homme,Mandoko,FABACEAE,Dalbergia sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_24,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_24,Homme,Famoalambo,FABACEAE,Dichrostachys sp.,1,0,0,0,0,0,0,1,0,0
+Bombetoka,Mataitromby,Inf_25,Femme,Kabokala,APOCYNACEAE,Carissa spinarum,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_25,Femme,Laingomaimbo,RUBIACEAE,Paederia bojeriana,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_25,Femme,Mokonazy,RHAMNACEAE,Ziziphus mauritiana,1,1,1,0,0,0,1,1,0,0
+Bombetoka,Mataitromby,Inf_26,Homme,Laingomaimbo,RUBIACEAE,Paederia bojeriana,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_26,Homme,kabokala,APOCYNACEAE,Carissa spinarum,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_26,Homme,Tsilanimboana,LOGANIACEAE,Strychnos henningsii,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_26,Homme,Dilombetsirebaka,,sp 1,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_26,Homme,Famoalambo,FABACEAE,Dichrostachys sp.,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_26,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_26,Homme,Adabo,MORACEAE,Ficus sakalavarum,1,1,0,0,0,0,0,1,0,0
+Bombetoka,Mataitromby,Inf_26,Homme,Taindelokarana,BORAGINACEAE,Cordia myxa,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_26,Homme,Manary,FABACEAE,Dalbergia trichocarpa,1,0,0,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_27,Homme,Goavy,MYRTACEAE,Psidium guajava,1,0,1,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_27,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,1,1,0,0,0,0,0,1,0
+Bombetoka,Mataitromby,Inf_27,Homme,Famoalambo,FABACEAE,Dichrostachys sp.,1,0,0,0,0,0,0,1,0,0
+Bombetoka,Mataitromby,Inf_27,Homme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,1,0,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_27,Homme,Hazondringitra,PHYSENACEAE,Physena sessiliflora,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_27,Homme,Mamoloana,,,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_28,Femme,Mokonazy,RHAMNACEAE,Ziziphus mauritiana,0,1,1,0,0,0,1,0,0,0
+Bombetoka,Mataitromby,Inf_29,Femme,,,,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Mataitromby,Inf_30,Homme,Mokonazy,RHAMNACEAE,Ziziphus mauritiana,1,1,0,0,0,0,1,1,0,0
+Bombetoka,Sankoany,Inf_31,Femme,Madiro,FABACEAE,Tamarindus indica,1,0,1,0,0,0,1,1,0,0
+Bombetoka,Sankoany,Inf_31,Femme,Manary,FABACEAE,Dalbergia trichocarpa,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_31,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_31,Femme,Dilombetsirebaka,,sp 1,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_31,Femme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,1,0,0,0,0,1,0,0,0
+Bombetoka,Sankoany,Inf_31,Femme,Sohihy,ANACARDIACAE,Adina microcephala,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_31,Femme,Godroa,APOCYNACEAE,Mascarenasia arborescens,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_31,Femme,Kabokala,APOCYNACEAE,Carissa spinarum,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_32,Homme,Kinajy,,,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_32,Homme,Lambohenjana,LYTHRACEAE,Woodfordia fruticosa,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_32,Homme,Tsilanimboana,LOGANIACEAE,Strychnos henningsii,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_32,Homme,Mandravasarotra,CANNELACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_32,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,1,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_32,Homme,Famoalambo,FABACEAE,Dichrostachys sp.,1,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_32,Homme,Manary,FABACEAE,Dalbergia trichocarpa,1,0,0,0,0,0,0,0,1,0
+Bombetoka,Sankoany,Inf_33,Homme,Amaninomby,COMBRETACEAE,Terminalia boivinii,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_33,Homme,Sarigavo,EUPHORBIACEAE,Alchornea alnifolia,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_33,Homme,Godroa,APOCYNACEAE,Mascarenasia arborescens,0,1,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_33,Homme,Tabela,,,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_34,Homme,,,,0,0,0,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_35,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_35,Homme,Mandoko,FABACEAE,Dalbergia sp.,1,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_35,Homme,Famoalambo,FABACEAE,Dichrostachys sp.,1,0,0,0,0,0,0,1,0,0
+Bombetoka,Sankoany,Inf_35,Homme,Lambohenjana,LYTHRACEAE,Woodfordia fruticosa,0,0,1,0,0,0,0,0,0,0
+Bombetoka,Sankoany,Inf_36,Homme,Lamaka,,,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_1,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Antafiameva,Inf_1,Femme,Bozaka,POACEAE,Herbe,0,0,0,0,0,0,0,1,0,0
+Mariarano,Antafiameva,Inf_1,Femme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,1,1,0,0,0,0,1,1,0,0
+Mariarano,Antafiameva,Inf_1,Femme,Manga,ANACARDIACEAE,Mangifera indica,1,1,0,1,0,0,1,0,0,0
+Mariarano,Antafiameva,Inf_1,Femme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_1,Femme,Baobaba,MALVACEAE,Adansonia sp,0,1,0,0,0,0,1,0,0,0
+Mariarano,Antafiameva,Inf_1,Femme,Viky,FLAGERILLACEAE,Flagellaria indica,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_1,Femme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,1,1,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Harongampanihy,HYPERACEAE,Psorospermum androsaemifolium,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,1,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Sakoa,ANACARDIACEAE,Poupartia caffra ,1,1,0,0,0,0,1,1,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Tsitolomina,RHIZOPHORACEAE,Bruguiera gymnorrhiza,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Manga,ANACARDIACEAE,Mangifera indica,1,1,0,1,0,0,1,1,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,1,0,1,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Sakoanakomba,ANACARDIACEAE,Sclerocarya birrea,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Famoalambo,FABACEAE,Dichrostachys sp,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,1,1,0,0,0,0,1,1,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Mogoga,FABACEAE,Acacia morondavensis,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Rohimena,FABACEAE,Acacia pervillei,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Voanio,ARECACEAE,Cocos nucifera,0,0,0,0,0,0,1,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Masonjoany,MELIACEAE,Enterospermum madagascariensis,0,0,0,0,1,0,0,0,0,0
+Mariarano,Antafiameva,Inf_2,Homme,Tsimiranjo,BORAGINACEAE,Cordia myxa,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_3,Homme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,1,1,0,0,0
+Mariarano,Antafiameva,Inf_3,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_3,Homme,Tsitolomina,RHIZOPHORACEAE,Bruguiera gymnorrhiza,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antafiameva,Inf_3,Homme,Hazomafana,EBENACEAE,Diospyros haplostylis,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_4,Femme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,1,1,0,0,0
+Mariarano,Mariarano,Inf_4,Femme,Finesy,MORACEAE,Artocarpus heterophyllus,0,1,0,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_4,Femme,Manga,ANACARDIACEAE,Mangifera indica,1,1,0,0,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_4,Femme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,1,1,0,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_4,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_4,Femme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_5,Homme,Sakoa,ANACARDIACEAE,Poupartia caffra ,0,1,1,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_5,Homme,Manary,FABACEAE,Dalbergia sp,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_5,Homme,Noni,RUBIACEAE,Morinda citrifolia,0,0,1,0,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_5,Homme,Manga,ANACARDIACEAE,Mangifera indica,0,0,0,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_5,Homme,Finesy,MORACEAE,Artocarpus heterophyllus,0,0,0,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_6,Homme,Mality,DIOSCORACEAE,Dioscorea maciba,0,0,0,0,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Antaly,DIOSCORACEAE,Dioscorea antaly,0,0,0,0,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Oviala,DIOSCORACEAE,Dioscorea ovinala,0,0,0,0,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Manary,FABACEAE,Dalbergia sp,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Manga,ANACARDIACEAE,Mangifera indica,1,0,0,1,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Kitsoa,,,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,1,1,0,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_6,Homme,Mogoga,FABACEAE,Acacia morondavensis,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_6,Homme,Toboro,LYTHRACEAE,Ammannia multiflora,1,1,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Tsitolomina ,RHIZOPHORACEAE,Bruguiera gymnorrhiza,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Moromony ,STERCULIACEAE,Heritiera littoralis,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Lovinjo ,COMBRETACEAE,Lumnitzera racemosa,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Afiafy ,AVICENNIACEAE,Avicennia marina ,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Honkolahy,RHIZOPHORACEAE,Rhizophora mucronata ,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Honkovavy,RHIZOPHORACEAE,Ceriops tagal,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Sarigavo ,MELIACEAE,Xylocarpus granatum ,1,1,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,0,1,0,0,0,0,1,1,0,0
+Mariarano,Antanandava,Inf_7,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Lazalaza,EUPHORBIACEAE,Croton sp,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Hazompiky,RUBIACEAE,Schizoenterospermum rotendiflorum,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Felidrafia,NEPHROLEPIDACEAE,Nephrolepis undulata,0,0,0,0,0,0,1,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Sarifanivana,,,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Bozaka,POACEAE,Herbe,0,0,0,0,0,0,0,1,0,0
+Mariarano,Antanandava,Inf_7,Homme,Moramena,MALPIGHIACEAE,Acridocarpus excelsus,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Kininina,MYRTACEAE,Eucalyptus sp,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Madiro,FABACEAE,Tamarindus indica,0,0,0,1,1,0,1,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Manga,ANACARDIACEAE,Mangifera indica,0,0,0,0,0,0,1,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Kininina,MYRTACEAE,Eucalyptus sp,0,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Acacia,FABACEAE,Acacia sp,0,1,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_7,Homme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,0,1,0,0,0
+Mariarano,Antanandava,Inf_8,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Antanandava,Inf_8,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,0,1,1,0,1,0,0,0
+Mariarano,Antanandava,Inf_8,Femme,Manga,ANACARDIACEAE,Mangifera indica,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_8,Femme,Tsitolomina ,RHIZOPHORACEAE,Bruguiera gymnorrhiza,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_8,Femme,Moromony ,STERCULIACEAE,Heritiera littoralis,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_8,Femme,Lovinjo ,COMBRETACEAE,Lumnitzera racemosa,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_8,Femme,Afiafy ,AVICENNIACEAE,Avicennia marina ,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_8,Femme,Honkolahy,RHIZOPHORACEAE,Rhizophora mucronata ,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_8,Femme,Honkolahy,RHIZOPHORACEAE,Rhizophora mucronata ,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_8,Femme,Sarigavo ,MELIACEAE,Xylocarpus granatum ,1,0,0,0,1,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Selibe,MALVACEAE,Grewia flavicans,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Mangarahara,BOIGNONIACEAE,Stereospermum euphorioides,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Afiafy,AVICENNIACEAE,Avicennia marina,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,1,1,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Felidrafia,NEPHROLEPIDACEAE,Nephrolepis undulata,0,0,0,0,0,0,1,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Votrotroka,Non id,Herbe,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Kaboka,APOCYNACEAE,Voacanga thouarsii,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Manga,ANACARDIACEAE,Mangifera indica,1,0,0,0,0,0,1,1,0,0
+Mariarano,Antanandava,Inf_9,Homme,Godroa,APOCYNACEAE,Mascarenhasia lisianthiflora,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Atrandra,,,0,0,1,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Manary,FABACEAE,Dalbergia sp,0,0,0,1,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Manjakaben'ny tany,,,0,0,0,1,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Mapingo,EBENACEAE,Diospyros mapingo,1,0,0,1,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Mampisaraka,APOCYNACEAE,Plectaneia sp,0,0,0,1,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,0,0,0,0,0,0,0
+Mariarano,Antanandava,Inf_9,Homme,Tamotamohazo,MALVACEAE,Hildegardia erythrosiphon,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_10,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_10,Femme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_10,Femme,Andrambafohy,APOCYNACEAE,Hazunta sp,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_10,Femme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_10,Femme,Fiamy,MORACEAE,Ficus trichopoda,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_10,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,0,1,1,0,1,0,0,0
+Mariarano,Mariarano,Inf_10,Femme,Manga,ANACARDIACEAE,Mangifera indica,0,0,0,0,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_11,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_11,Homme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,0,1,0,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_11,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_11,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_11,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_12,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_12,Femme,Ravinala,STRELITZIACEAE,Ravenala madagascariensis,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_12,Femme,Sohihy,RUBIACEAE,Adina microcephala,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_12,Femme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,1,0,0,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_12,Femme,Madiro,FABACEAE,Tamarindus indica,0,1,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Inf_12,Femme,Manga,ANACARDIACEAE,Mangifera indica,0,1,1,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_13,Homme,Rabosa,RUTACEAE,Euodia fatraina,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_13,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_13,Homme,Fomby,ARECACEAE,Raphia farinifera,0,0,0,0,0,1,1,0,0,0
+Mariarano,Mariarano,Inf_13,Homme,Tsitolomina ,RHIZOPHORACEAE,Bruguiera gymnorrhiza,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_13,Homme,Moromony ,STERCULIACEAE,Heritiera littoralis,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_13,Homme,Lovinjo ,COMBRETACEAE,Lumnitzera racemosa,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_13,Homme,Afiafy ,AVICENNIACEAE,Avicennia marina ,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_13,Homme,Honkolahy,RHIZOPHORACEAE,Rhizophora mucronata ,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_13,Homme,Honkovavy,RHIZOPHORACEAE,Ceriops tagal,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_13,Homme,Sarigavo ,MELIACEAE,Xylocarpus granatum ,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Tsitolomina ,RHIZOPHORACEAE,Bruguiera gymnorrhiza,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Moromony ,STERCULIACEAE,Heritiera littoralis,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Lovinjo ,COMBRETACEAE,Lumnitzera racemosa,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Afiafy ,AVICENNIACEAE,Avicennia marina ,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Honkolahy,RHIZOPHORACEAE,Rhizophora mucronata ,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Honkovavy,RHIZOPHORACEAE,Ceriops tagal,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Sarigavo ,MELIACEAE,Xylocarpus granatum ,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Manary,FABACEAE,Dalbergia sp,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Tsiavalika,ANNONACEAE,Monanthotaxis boivinii,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Tsilaitry,OLEACEAE,Noronhia sp,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Manary,FABACEAE,Dalbergia sp,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf14,Homme,Coco,ARECACEAE,Cocos nucifera,0,0,0,0,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_15,Femme,Tsitolomina,RHIZOPHORACEAE,Bruguiera gymnorrhiza,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_15,Femme,Ramy,BURSERACEAE,Canarium madagascariense,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_15,Femme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_15,Femme,Monongo,RUTACEAE,Zanthoxylum decaryi,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_15,Femme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_15,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_16,Homme,Tsitolomina,RHIZOPHORACEAE,Bruguiera gymnorrhiza,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_16,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_16,Homme,Katrafay,RUTACEAE,Cedrelopsis microfoliolata,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_16,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_16,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_16,Homme,Bararata,POACEAE,Fragmites mauritianus,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_16,Homme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,1,1,0,0,0
+Mariarano,Mariarano,Inf_17,Homme,Madiro,FABACEAE,Tamarindus indica,0,0,1,1,1,0,1,0,0,0
+Mariarano,Mariarano,Inf_17,Homme,Hasina,ASPARAGACEAE,Dracaena sp,0,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_17,Homme,Adabo,MORACEAE,Ficus sakalavarum,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_17,Homme,Aviavy,MORACEAE,Ficus carica,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_17,Homme,Manga,ANACARDIACEAE,Mangifera indica,0,0,0,0,0,0,1,0,0,1
+Mariarano,Mariarano,Inf_17,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_17,Homme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_17,Homme,Acacia,FABACEAE,Acacia sp,0,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_18,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_18,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_18,Homme,Masonjoany,MELIACEAE,Enterospermum madagascariensis,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_18,Homme,Adabo,MORACEAE,Ficus sakalavarum,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_18,Homme,Aviavy,MORACEAE,Ficus carica,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_18,Homme,Madiro,FABACEAE,Tamarindus indica,0,0,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Bonara,FABACEAE,Albizia  lebbeck,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Sohihy,RUBIACEAE,Adina microcephala,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Motso,ANACARDIACEAE,Abrahamia deflexa,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Retendrika,LOGANIACEAE,Strychnos myrtoides,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Tsilaitry,OLEACEAE,Noronhia sp,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Tsiavalika,ANNONACEAE,Monanthotaxis boivinii,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Ampoly,ANNONACEAE,Uvaria sp,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Lazalaza,EUPHORBIACEAE,Croton sp,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Adabo,MORACEAE,Ficus sakalavarum,1,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Manary tsiandala,FABACEAE,Dalbergia tsiandalana,1,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Madiro,FABACEAE,Tamarindus indica,1,0,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Masonjoany,MELIACEAE,Enterospermum madagascariensis,1,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,1,0,0,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_19,Homme,Vakakoa,LOGANIACEAE,Strychnos madagascariensis,1,0,0,0,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Voantsakalava,BIGNONIACEAE,Phylloctenium bernieri,1,0,0,0,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Mahabibo,ANACARDIACEAE,Anacardium occidentale,1,0,0,0,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,0,0,1,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_19,Homme,Oviala,DIOSCORACEAE,Dioscorea ovinala,0,0,0,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_20,Homme,Ndrambafohy,APOCYNACEAE,Hazunta sp,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_20,Homme,Madiro,FABACEAE,Tamarindus indica,0,0,0,1,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_20,Homme,Adabo,MORACEAE,Ficus sakalavarum,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_21,Femme,Adabo,MORACEAE,Ficus sakalavarum,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_21,Femme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_21,Femme,Madiro,FABACEAE,Tamarindus indica,0,1,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Inf_21,Femme,Aviavy,MORACEAE,Ficus carica,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_21,Femme,Sakoa,ANACARDIACEAE,Poupartia caffra ,0,1,1,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_21,Femme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_21,Femme,Marog?y,,,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_21,Femme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,0,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_21,Femme,150 maladies,Non id,Communement,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_22,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,1,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_22,Homme,Ndrambafohy,APOCYNACEAE,Hazunta sp,0,1,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_22,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_22,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_23,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Inf_23,Femme,Fiamy,MORACEAE,Ficus trichopoda,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_24,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_24,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_25,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_25,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_25,Homme,Oviala,DIOSCORACEAE,Dioscorea ovinala,0,0,0,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_26,Femme,Goavy,MYRTACEAE,Psidium guajava,0,1,1,0,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_26,Femme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,1,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_26,Femme,Madiro,FABACEAE,Tamarindus indica,1,1,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Inf_26,Femme,Aviavy,MORACEAE,Ficus carica,1,1,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_26,Femme,Manary,FABACEAE,Dalbergia sp,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_26,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,1,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_26,Femme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,1,1,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Malazovoavy,VERBENACEAE,Clerodendron sp,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Tsimelondraha,,,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Tany manara,,,1,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Mangarahara,BOIGNONIACEAE,Stereospermum euphorioides,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Bontaka,APOCYNACEAE,Pachypodium sp,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Sely,MALVACEAE,Grewia sp,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_27,Femme,Manary,FABACEAE,Dalbergia sp,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_28,Homme,Goavy,MYRTACEAE,Psidium guajava,1,1,1,1,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_28,Homme,Madiro,FABACEAE,Tamarindus indica,1,1,1,1,0,0,1,0,0,0
+Mariarano,Mariarano,Inf_28,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_28,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,0,1,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_28,Homme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,1,1,1,1,0,0,1,1,0,0
+Mariarano,Mariarano,Inf_28,Homme,Godroa,APOCYNACEAE,Mascarenhasia lisianthiflora,1,1,1,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_28,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,1,1,1,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Motso,ANACARDIACEAE,Abrahamia deflexa,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,1,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Katrafay,RUTACEAE,Cedrelopsis grevei,0,0,1,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Manary tsiandala,FABACEAE,Dalbergia tsiandalana,1,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Madiro,FABACEAE,Tamarindus indica,0,0,0,0,1,0,1,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Tsitolomina,RHIZOPHORACEAE,Bruguiera gymnorrhiza,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Afiafy,AVICENNIACEAE,Avicennia marina,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Honkovavy,RHIZOPHORACEAE,Ceriops tagal,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Honkolahy,RHIZOPHORACEAE,Rhizophora mucronata ,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Aviavy,MORACEAE,Ficus carica,0,0,0,0,1,0,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,1,0,0,0,0
+Mariarano,Mariarano,Inf_29,Femme,Fomby,ARECACEAE,Raphia farinifera,1,0,0,0,0,1,0,0,0,0
+Mariarano,Marosakoa,Inf_30,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,1,1,1,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_30,Homme,Samanta,APOCYNACEAE,Cerbera venenifera,0,1,0,1,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_30,Homme,Mokonazy,RHAMNACEAE,Zizyphus mauritiana,0,1,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_30,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,1,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_30,Homme,Fomby,ARECACEAE,Raphia farinifera,1,1,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_30,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,1,0,1,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_30,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,1,1,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_31,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,1,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_31,Homme,Satramira,ARECACEAE,hyphaena sahtan,1,1,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_31,Homme,Mandravasarotra,CANELLACEAE,Cinnamosma fragrans,0,1,1,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_31,Homme,Manary,FABACEAE,Dalbergia sp,0,1,0,1,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_31,Homme,Manga,ANACARDIACEAE,Manguifera indica,0,1,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_31,Homme,Katrafay,RUTACEAE,Cedrelopsis grevei,1,1,0,0,0,0,0,0,0,0
+Mariarano,Marosakoa,Inf_31,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,1,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_32,Homme,Kitata,EUPHORBIACEAE,Bridelia pervilleana,1,0,0,1,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_32,Homme,Satrana,ARECACEAE,Bismarckia nobilis,1,0,0,0,0,0,0,0,0,0
+Mariarano,Mariarano,Inf_32,Homme,Tsitolomina,RHIZOPHORACEAE,Bruguiera gymnorrhiza,1,0,0,0,0,0,0,0,0,0
